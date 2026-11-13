@@ -6,34 +6,30 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "🇨🇭 CH 01 - xiaohe",
-        "🇨🇭 CH 02 - xiaohe",
-        "🇨🇭 CH 03 - xiaohe",
-        "🇨🇭 CH 04 - xiaohe",
-        "🇨🇭 CH 05 - xiaohe",
-        "🇨🇭 CH 06 - xiaohe",
-        "🇨🇭 CH 07 - xiaohe",
-        "🇨🇭 CH 08 - xiaohe",
-        "🇨🇭 CH 09 - xiaohe",
-        "🇨🇭 CH 10 - xiaohe",
-        "🇨🇭 CH 11 - xiaohe"
+        "🇨🇭 CH 01 - free",
+        "🇨🇭 CH 02 - free",
+        "🇨🇭 CH 03 - free",
+        "🇨🇭 CH 04 - free",
+        "🇨🇭 CH 05 - free",
+        "🇨🇭 CH 06 - free",
+        "🇨🇭 CH 07 - free",
+        "🇨🇭 CH 08 - free",
+        "🇨🇭 CH 09 - free"
       ]
     },
     {
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "🇨🇭 CH 01 - xiaohe",
-        "🇨🇭 CH 02 - xiaohe",
-        "🇨🇭 CH 03 - xiaohe",
-        "🇨🇭 CH 04 - xiaohe",
-        "🇨🇭 CH 05 - xiaohe",
-        "🇨🇭 CH 06 - xiaohe",
-        "🇨🇭 CH 07 - xiaohe",
-        "🇨🇭 CH 08 - xiaohe",
-        "🇨🇭 CH 09 - xiaohe",
-        "🇨🇭 CH 10 - xiaohe",
-        "🇨🇭 CH 11 - xiaohe"
+        "🇨🇭 CH 01 - free",
+        "🇨🇭 CH 02 - free",
+        "🇨🇭 CH 03 - free",
+        "🇨🇭 CH 04 - free",
+        "🇨🇭 CH 05 - free",
+        "🇨🇭 CH 06 - free",
+        "🇨🇭 CH 07 - free",
+        "🇨🇭 CH 08 - free",
+        "🇨🇭 CH 09 - free"
       ],
       "url": "https://www.google.com/generate_204"
     },

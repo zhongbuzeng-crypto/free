@@ -4,7 +4,7 @@ allow-lan: true
 mode: rule
 log-level: info
 proxies:
-- name: 🇵🇱 PL 01 - xiaohe
+- name: 🇵🇱 PL 01 - free
   type: vless
   server: 2.26.6.1
   port: 2087
@@ -13,7 +13,7 @@ proxies:
   tls: true
   skip-cert-verify: true
   servername: 2.26.6.1
-- name: 🇵🇱 PL 02 - xiaohe
+- name: 🇵🇱 PL 02 - free
   type: vless
   server: 2.26.6.1
   port: 2087
@@ -27,14 +27,14 @@ proxy-groups:
   type: select
   proxies:
   - AUTO
-  - 🇵🇱 PL 01 - xiaohe
-  - 🇵🇱 PL 02 - xiaohe
+  - 🇵🇱 PL 01 - free
+  - 🇵🇱 PL 02 - free
 - name: AUTO
   type: url-test
   url: https://www.google.com/generate_204
   interval: 300
   proxies:
-  - 🇵🇱 PL 01 - xiaohe
-  - 🇵🇱 PL 02 - xiaohe
+  - 🇵🇱 PL 01 - free
+  - 🇵🇱 PL 02 - free
 rules:
 - MATCH,PROXIES

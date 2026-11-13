@@ -6,26 +6,26 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "🇧🇾 BY 01 - xiaohe",
-        "🇧🇾 BY 02 - xiaohe",
-        "🇧🇾 BY 03 - xiaohe",
-        "🇧🇾 BY 04 - xiaohe",
-        "🇧🇾 BY 05 - xiaohe",
-        "🇧🇾 BY 06 - xiaohe",
-        "🇧🇾 BY 07 - xiaohe"
+        "🇧🇾 BY 01 - free",
+        "🇧🇾 BY 02 - free",
+        "🇧🇾 BY 03 - free",
+        "🇧🇾 BY 04 - free",
+        "🇧🇾 BY 05 - free",
+        "🇧🇾 BY 06 - free",
+        "🇧🇾 BY 07 - free"
       ]
     },
     {
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "🇧🇾 BY 01 - xiaohe",
-        "🇧🇾 BY 02 - xiaohe",
-        "🇧🇾 BY 03 - xiaohe",
-        "🇧🇾 BY 04 - xiaohe",
-        "🇧🇾 BY 05 - xiaohe",
-        "🇧🇾 BY 06 - xiaohe",
-        "🇧🇾 BY 07 - xiaohe"
+        "🇧🇾 BY 01 - free",
+        "🇧🇾 BY 02 - free",
+        "🇧🇾 BY 03 - free",
+        "🇧🇾 BY 04 - free",
+        "🇧🇾 BY 05 - free",
+        "🇧🇾 BY 06 - free",
+        "🇧🇾 BY 07 - free"
       ],
       "url": "https://www.google.com/generate_204"
     },

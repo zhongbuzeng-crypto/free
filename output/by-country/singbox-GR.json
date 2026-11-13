@@ -6,18 +6,16 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "🇬🇷 GR 01 - xiaohe",
-        "🇬🇷 GR 02 - xiaohe",
-        "🇬🇷 GR 03 - xiaohe"
+        "🇬🇷 GR 01 - free",
+        "🇬🇷 GR 02 - free"
       ]
     },
     {
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "🇬🇷 GR 01 - xiaohe",
-        "🇬🇷 GR 02 - xiaohe",
-        "🇬🇷 GR 03 - xiaohe"
+        "🇬🇷 GR 01 - free",
+        "🇬🇷 GR 02 - free"
       ],
       "url": "https://www.google.com/generate_204"
     },

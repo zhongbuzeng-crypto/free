@@ -6,32 +6,32 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "🇰🇷 韩国 (South Korea) 01 - xiaohe",
-        "🇰🇷 韩国 (South Korea) 02 - xiaohe",
-        "🇰🇷 韩国 (South Korea) 03 - xiaohe",
-        "🇰🇷 韩国 (South Korea) 04 - xiaohe",
-        "🇰🇷 韩国 (South Korea) 05 - xiaohe",
-        "🇰🇷 韩国 (South Korea) 06 - xiaohe",
-        "🇰🇷 韩国 (South Korea) 07 - xiaohe",
-        "🇰🇷 韩国 (South Korea) 08 - xiaohe",
-        "🇰🇷 韩国 (South Korea) 09 - xiaohe",
-        "🇰🇷 韩国 (South Korea) 10 - xiaohe"
+        "🇰🇷 韩国 (South Korea) 01 - free",
+        "🇰🇷 韩国 (South Korea) 02 - free",
+        "🇰🇷 韩国 (South Korea) 03 - free",
+        "🇰🇷 韩国 (South Korea) 04 - free",
+        "🇰🇷 韩国 (South Korea) 05 - free",
+        "🇰🇷 韩国 (South Korea) 06 - free",
+        "🇰🇷 韩国 (South Korea) 07 - free",
+        "🇰🇷 韩国 (South Korea) 08 - free",
+        "🇰🇷 韩国 (South Korea) 09 - free",
+        "🇰🇷 韩国 (South Korea) 10 - free"
       ]
     },
     {
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "🇰🇷 韩国 (South Korea) 01 - xiaohe",
-        "🇰🇷 韩国 (South Korea) 02 - xiaohe",
-        "🇰🇷 韩国 (South Korea) 03 - xiaohe",
-        "🇰🇷 韩国 (South Korea) 04 - xiaohe",
-        "🇰🇷 韩国 (South Korea) 05 - xiaohe",
-        "🇰🇷 韩国 (South Korea) 06 - xiaohe",
-        "🇰🇷 韩国 (South Korea) 07 - xiaohe",
-        "🇰🇷 韩国 (South Korea) 08 - xiaohe",
-        "🇰🇷 韩国 (South Korea) 09 - xiaohe",
-        "🇰🇷 韩国 (South Korea) 10 - xiaohe"
+        "🇰🇷 韩国 (South Korea) 01 - free",
+        "🇰🇷 韩国 (South Korea) 02 - free",
+        "🇰🇷 韩国 (South Korea) 03 - free",
+        "🇰🇷 韩国 (South Korea) 04 - free",
+        "🇰🇷 韩国 (South Korea) 05 - free",
+        "🇰🇷 韩国 (South Korea) 06 - free",
+        "🇰🇷 韩国 (South Korea) 07 - free",
+        "🇰🇷 韩国 (South Korea) 08 - free",
+        "🇰🇷 韩国 (South Korea) 09 - free",
+        "🇰🇷 韩国 (South Korea) 10 - free"
       ],
       "url": "https://www.google.com/generate_204"
     },
