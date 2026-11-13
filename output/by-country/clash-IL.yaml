@@ -15,6 +15,20 @@ proxies:
   servername: fs.qicai99.com
   network: ws
   ws-opts:
+    path: /
+    headers:
+      Host: fs.qicai99.com
+- name: 🇮🇱 IL 02 - free
+  type: vless
+  server: 192.71.27.237
+  port: 443
+  uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e
+  udp: true
+  tls: true
+  skip-cert-verify: true
+  servername: fs.qicai99.com
+  network: ws
+  ws-opts:
     path: /fp=chrome
     headers:
       Host: fs.qicai99.com
@@ -24,11 +38,13 @@ proxy-groups:
   proxies:
   - AUTO
   - 🇮🇱 IL 01 - free
+  - 🇮🇱 IL 02 - free
 - name: AUTO
   type: url-test
   url: https://www.google.com/generate_204
   interval: 300
   proxies:
   - 🇮🇱 IL 01 - free
+  - 🇮🇱 IL 02 - free
 rules:
 - MATCH,PROXIES
