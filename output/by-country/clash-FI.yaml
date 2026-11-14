@@ -6,8 +6,8 @@ log-level: info
 proxies:
 - name: 🇫🇮 FI 01 - free
   type: vless
-  server: 138.124.49.108
-  port: 8443
+  server: 138.124.124.157
+  port: 443
   uuid: 99c5b713-dedf-4a10-8070-916ff3f49b0e
   udp: true
   tls: true
@@ -15,7 +15,7 @@ proxies:
   servername: fs.qicai99.com
   network: ws
   ws-opts:
-    path: /fp=chromefp=chrome
+    path: /fp=chrome
     headers:
       Host: fs.qicai99.com
 - name: 🇫🇮 FI 02 - free
@@ -46,20 +46,6 @@ proxies:
       Host: 45.144.234.157
 - name: 🇫🇮 FI 04 - free
   type: vless
-  server: 84.22.150.39
-  port: 7443
-  uuid: 9d5cbb90-876b-448d-9874-27ab35bae6e7
-  udp: true
-  tls: true
-  skip-cert-verify: true
-  servername: woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev
-  network: ws
-  ws-opts:
-    path: /@Marisa_kristi
-    headers:
-      Host: woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev
-- name: 🇫🇮 FI 05 - free
-  type: vless
   server: 45.144.234.157
   port: 14430
   uuid: 59b0d30e-9b29-4fda-a35c-b2901ec32db7
@@ -80,7 +66,6 @@ proxy-groups:
   - 🇫🇮 FI 02 - free
   - 🇫🇮 FI 03 - free
   - 🇫🇮 FI 04 - free
-  - 🇫🇮 FI 05 - free
 - name: AUTO
   type: url-test
   url: https://www.google.com/generate_204
@@ -90,6 +75,5 @@ proxy-groups:
   - 🇫🇮 FI 02 - free
   - 🇫🇮 FI 03 - free
   - 🇫🇮 FI 04 - free
-  - 🇫🇮 FI 05 - free
 rules:
 - MATCH,PROXIES
